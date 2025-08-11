@@ -1,2 +1,1 @@
-This project provides a Maple implementation for numerically solving the Bratu problem using an iterative finite difference method (FDM).
-The Bratu problem is a nonlinear boundary value problem that arises in various applications such as combustion theory, thermal reaction modeling, and chemical reaction–diffusion systems.
+This repository contains Maple implementations of iterative finite difference methods for solving nonlinear boundary value problems, including the Bratu problem and the Lane–Emden equations of the first and second kind. The codes demonstrate the numerical approach, convergence behavior, and example results for each problem.
